@@ -1,2 +1,2 @@
 # infinite-calc
-testing a infinite calculatot
+testing a infinite calculator
